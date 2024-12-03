@@ -1,4 +1,6 @@
 Mini Doom Port
+
+
 Welcome to the Mini Doom Port project! This repository contains a minimalistic, hardware-optimized port inspired by the legendary game Doom. Designed for embedded systems, this project offers a compact, efficient implementation of a 2D raycasting engine and basic game mechanics tailored for microcontroller platforms.
 ________________________________________
 Features
