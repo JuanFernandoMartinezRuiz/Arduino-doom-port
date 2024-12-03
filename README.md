@@ -36,19 +36,7 @@ File Structure
 •	sound.h: Embedded sound effects and playback utilities.
 •	sprites.h: Bitmaps and sprite data for rendering graphics.
 ________________________________________
-Getting Started
-1.	Clone this repository:
-bash
-Copiar código
-git clone https://github.com/yourusername/mini-doom-port.git
-cd mini-doom-port
-2.	Install required libraries in the Arduino IDE:
-o	Adafruit GFX
-o	Adafruit SSD1306
-3.	Open doom.ino in the Arduino IDE.
-4.	Configure hardware pins in constants.h to match your setup.
-5.	Upload the code to your microcontroller.
-________________________________________
+
 Controls
 Action	Keyboard (GPIO)	SNES Controller
 Move Left	Configurable	Left D-Pad
