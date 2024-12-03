@@ -46,3 +46,5 @@ Move Down	Configurable	Down D-Pad
 Fire Weapon	Configurable	Y Button
 Start Game	N/A	Start Button
 
+[Functionality Tests](https://drive.google.com/drive/folders/1YwOPKUtqXNGImYKLfuTyvXUT2XjYicXq?usp=sharing)
+
